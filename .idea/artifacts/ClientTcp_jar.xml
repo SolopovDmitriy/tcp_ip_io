@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClientTcp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClientTcp_jar</output-path>
+    <root id="archive" name="ClientTcp.jar">
+      <element id="module-output" name="ClientTcp" />
+    </root>
+  </artifact>
+</component>
